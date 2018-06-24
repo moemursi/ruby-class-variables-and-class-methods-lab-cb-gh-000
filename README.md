@@ -14,7 +14,7 @@ Song.count
   # => 30
 ```
 
-We need our `Song` class to be able to show us all of the artists of existing songs:
+We need our `Song` classs to be able to show us all of the artists of existing songs:
 
 ```ruby
 Song.artists
